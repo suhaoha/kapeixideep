@@ -5,4 +5,4 @@ https://app.adjust.com/jsr?url=https%3A%2F%2Fkggl.adj.st%2FBag%3Fadj_t%3Dbqr0i8h
 
 
 cupshe://collection/329
-https://cupshe.onelink.me/JLpe/e42cf855
+https://cupshe.onelink.me/JLpe?pid=cupshe&c=test_facebook&deep_link_value=collection_page&af_dp=cupshe%3A%2F%2F&testKey=testValue
