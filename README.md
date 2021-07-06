@@ -8,3 +8,5 @@ cupshe://collection/329
 https://cupshe.onelink.me/JLpe?pid=cupshe&c=test_facebook&deep_link_value=collection_page&af_dp=cupshe%3A%2F%2F&testKey=testValue
 
 https://cupshe.onelink.me/JLpe/e42cf855
+
+https://app.appsflyer.com/id1177423676?pid=yeahmobi_int
