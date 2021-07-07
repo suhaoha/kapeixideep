@@ -11,4 +11,6 @@ https://cupshe.onelink.me/JLpe?pid=cupshe&c=test_facebook&deep_link_value=collec
 
 https://cupshe.onelink.me/JLpe/e42cf855
 
+https://cupshe.onelink.me/JLpe/fd745113
+
 https://app.appsflyer.com/com.cupshe.cupshe?pid=yeahmobi_int&c=yeahmobi&advertising_id=64c4a005-ae97-4b73-9d3c-08af4a304657
