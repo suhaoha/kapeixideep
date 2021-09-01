@@ -13,6 +13,7 @@ https://cupshe.onelink.me/JLpe/e42cf855
 
 https://cupshe.onelink.me/JLpe/fd745113
 
-https://app.appsflyer.com/com.cupshe.cupshe?topage=/page/collection&pid=yeahmobi_int&c=yeahmobi&parameters={"categoryId":"139"}
+
+https://cupshe.onelink.me/JLpe/8d4a45a1
 
 Cupshe://hybrid/page/collection?parameters={"categoryId":"139"}
