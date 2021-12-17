@@ -17,3 +17,6 @@ https://cupshe.onelink.me/JLpe/fd745113
 https://cupshe.onelink.me/JLpe/8d4a45a1
 
 Cupshe://hybrid/page/collection?parameters={"categoryId":"139"}
+
+
+https://cupshe.onelink.me/JLpe/3331a1c5
