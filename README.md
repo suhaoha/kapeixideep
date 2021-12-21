@@ -20,3 +20,5 @@ Cupshe://hybrid/page/collection?parameters={"categoryId":"139"}
 
 
 https://cupshe.onelink.me/JLpe/3331a1c5
+
+https://cupshe.onelink.me/JLpe?pid=Email&c=App%20review%20link&is_retargeting=true&af_dp=cupshe%3A%2F%2Fcupshe.com&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2ForderDetail%3Fparameters%3D%7B%22orderId%22%3A%22338583%22%2C%22needLogin%22%3A%221%22%7D&af_force_deeplink=true
