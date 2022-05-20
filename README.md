@@ -25,4 +25,4 @@ https://cupshe.onelink.me/JLpe?pid=Email&c=App%20review%20link&is_retargeting=tr
 
 
 
-https://cupshe.klarna.link/?hpp_session_id=74ff78a3-27f4-9e44-aee6-2c24c7824a59&authorization_token=aabd9f3d-5c7f-4dad-a53d-a465ec1f3e6e&result=success&order_id=365087&price=213.000000&session_id=0bb32a80-6309-4da1-9972-4284602fa088
+https://cupshe.onelink.me/?hpp_session_id=74ff78a3-27f4-9e44-aee6-2c24c7824a59&authorization_token=aabd9f3d-5c7f-4dad-a53d-a465ec1f3e6e&result=success&order_id=365087&price=213.000000&session_id=0bb32a80-6309-4da1-9972-4284602fa088
