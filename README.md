@@ -35,4 +35,6 @@ https://cupshe.onelink.me/JLpe/opds0bsw
 
 https://cupshe.onelink.me/JLpe?pid=KlarnaOrder&af_dp=cupshe%3A%2F%2Fcupshe.com&hpp_session_id=74ff78a3-27f4-9e44-aee6-2c24c7824a59&authorization_token=aabd9f3d-5c7f-4dad-a53d-a465ec1f3e6e&result=success&order_id=365087&price=213.000000&session_id=0bb32a80-6309-4da1-9972-4284602fa088
 
-https://cupshe.onelink.me/JLpe?pid=Email&jumpUrl=Cuphse%3A%2F%2Fhybrid%2Fpage%2FcheckIn
+
+
+https://cupshe.onelink.me/JLpe?pid=Email&af_dp=cupshe%3A%2F%2Fcupshe.com&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2Fweb%3Fparameters%3D%7B%22url%22%3A%22https%3A%2F%2Fnewappapi.cupshe.com%2Fhelp%2Freturn.html%3FsiteId%3D9%22%2C%22name%22%3A%22return%22%7D
