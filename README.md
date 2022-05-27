@@ -41,3 +41,6 @@ https://cupshe.onelink.me/JLpe?pid=Email&af_dp=cupshe%3A%2F%2Fcupshe.com&jumpUrl
 
 
 https://cupshe.onelink.me/JLpe?pid=test&af_dp=cupshe%3A%2F%2Fcupshe.com
+
+
+https://cupshe.onelink.me/JLpe?pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2Fweb%3Fparameters%3D%7B%22url%22%3A%22https%3A%2F%2Fnewappapi.cupshe.com%2Fhelp%2Freturn.html%3FsiteId%3D9%22%2C%22name%22%3A%22return%22%7D
