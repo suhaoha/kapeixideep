@@ -45,7 +45,7 @@ https://cupshe.onelink.me/JLpe?pid=test&af_dp=cupshe%3A%2F%2Fcupshe.com
 
 https://cupshe.onelink.me/JLpe?pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2FcheckIn
 
-https://cupshe.cupshe/product?skc=FSM0046LA&source=google
+https://cupshe.cupshe/product?skc=ASF0070BW&source=google
 
 
 
