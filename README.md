@@ -52,4 +52,4 @@ https://www.cupshe.com/collections/modest-swimsuits?appCollectionId=789
 https://www.cupshe.com/products/grommet-lace-up-top-sea-shore-stripe-hipster-bikini-set?variant=39987254329434&appSkc=ASF0070BW
 
 
-
+https://www.cupshe.com/products/nayeli-striped-half-button-placket-blouse
