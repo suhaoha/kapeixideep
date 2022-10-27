@@ -61,7 +61,7 @@ https://www.cupshe.com/collections/cupshe-brand-best-sellers
 http://www.jdoqocy.com/click-1245-15372445?sid=Test
 
 
-https://cupshe.bttn.io/?btn_url=https%3A%2F%2Fwww.cupshe.com%2Fproducts%2Fpalm-beach-pink-plunge-one-piece-swimsuit&btn_ref=org-6658d51db36e0f38&btn_reach_pub=1245&btn_reach_pub_name=Commission+Junction&btn_mobile_url=https%3A%2F%2Fwww.cupshe.com%2Fproducts%2Fpalm-beach-pink-plunge-one-piece-swimsuit&btn_network_ref=97766ae855da11ed834a63ad0a180512&btn_cj_sid=Test&cjevent=97766ae855da11ed834a63ad0a180512&utm_medium=affiliate&utm_source=cj&utm_term=15372445&utm_content=1245&utm_campaign=1245&cjdata=MXxOfDB8WXww
+https://r.bttn.io/?btn_url=https%3A%2F%2Fwww.cupshe.com%2Fproducts%2Fpalm-beach-pink-plunge-one-piece-swimsuit&btn_ref=org-6658d51db36e0f38&btn_reach_pub=1245&btn_reach_pub_name=Commission+Junction&btn_mobile_url=https%3A%2F%2Fwww.cupshe.com%2Fproducts%2Fpalm-beach-pink-plunge-one-piece-swimsuit&btn_network_ref=97766ae855da11ed834a63ad0a180512&btn_cj_sid=Test&cjevent=97766ae855da11ed834a63ad0a180512&utm_medium=affiliate&utm_source=cj&utm_term=15372445&utm_content=1245&utm_campaign=1245&cjdata=MXxOfDB8WXww
 
 
 cupshe://android/p/www.cupshe.com/products/palm-beach-pink-plunge-one-piece-swimsuit
