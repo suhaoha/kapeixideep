@@ -56,3 +56,6 @@ https://www.cupshe.com/products/nayeli-striped-half-button-placket-blouse?utm_me
 
 
 https://www.cupshe.com/collections/cupshe-brand-best-sellers
+
+
+http://www.jdoqocy.com/click-1245-15372445?sid=Test
