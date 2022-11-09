@@ -65,3 +65,11 @@ https://r.bttn.io/?btn_url=https%3A%2F%2Fwww.cupshe.com%2Fproducts%2Fpalm-beach-
 
 
 cupshe://android/p/www.cupshe.com/products/palm-beach-pink-plunge-one-piece-swimsuit
+
+
+https://www.cupshe.com
+
+https://www.cupshe.com/products/palm-beach-pink-plunge-one-piece-swimsuit
+
+https://www.cupshe.com/collections/dress?icn=dresses&ici=navbar11
+
