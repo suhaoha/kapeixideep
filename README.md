@@ -71,5 +71,5 @@ https://www.cupshe.com
 
 https://www.cupshe.com/products/palm-beach-pink-plunge-one-piece-swimsuit
 
-https://www.cupshe.com/test/collections/dress?icn=dresses&ici=navbar11
+https://www.cupshe.com/test
 
