@@ -74,3 +74,6 @@ https://www.cupshe.com/products/palm-beach-pink-plunge-one-piece-swimsuit
 https://www.cupshe.com/test/
 
 https://www.cupshe.com/products/chantelle-textured-knit-sweater-dress
+
+
+https://www.retailmenot.com/out/O/MK4SLYJ3ZNHGRP7TXDKJJARGEA
