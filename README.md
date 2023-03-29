@@ -28,7 +28,9 @@ https://cupshe.onelink.me/JLpe?pid=APP%20PUSH&is_retargeting=true&c=app-push%20o
 
 https://ca-release.kapeixi.cn/subscribe-for-early-access-to-our-first-wedding-collaboration
 
-https://www.cupshe.com/subscribe-for-early-access-to-cupshe-x-madison-prewett-wedding-collection
+https://www.cupshe.com/campaign/subscribe-for-early-access-to-cupshe-x-madison-prewett-wedding-collection
+
+https://ca.cupshe.com/campaign/subscribe-for-early-access-to-cupshe-x-madison-prewett-wedding-collection
 
 https://www.cupshe.com/
 
