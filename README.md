@@ -35,3 +35,5 @@ https://ca.cupshe.com/campaign/subscribe-for-early-access-to-cupshe-x-madison-pr
 https://www.cupshe.com/
 
 https://www.cupshe.com
+
+https://play.google.com/store/apps/details?id=com.cupshe.cupshe&pli=ca
