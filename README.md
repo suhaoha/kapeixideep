@@ -32,6 +32,8 @@ https://www.cupshe.com/campaign/subscribe-for-early-access-to-cupshe-x-madison-p
 
 https://ca.cupshe.com/campaign/subscribe-for-early-access-to-cupshe-x-madison-prewett-wedding-collection
 
+https://newappapi.cupshe.com/help/redirect.html?links=https://www.cupshe.com/collection/bikinisets?utm_source=facebook&utm_medium=ocpm&utm_campaign=L-facebook-awareness-ca-swimsuit-image-test-image-DASL1254AA-2-home-c-230224&utm_content=awareness
+
 https://www.cupshe.com/
 
 https://www.cupshe.com
