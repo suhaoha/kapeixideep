@@ -36,4 +36,4 @@ https://sg-release.kapeixi.cn/app/redirect.html?links=https://ca.cupshe.com/coll
 
 https://www.cupshe.com/app/redirect.html?https://www.cupshe.com/collections/newuserpriceall0?utm_source=google&utm_medium=app&utm_campaign=USAPP-IOS-W2A-DSC-Free-230416&utm_content=Discovery
 
-http://localhost:8000/redirect.html?links=https://www.cupshe.com/collections/one-piece?utm_source%3Dfacebook*@@utm_medium%253Docpm*@@utm_campaign%253DL-facebook-awareness-ca-swimsuit-image-test-image-DASL1254AA-2-home-c-230224*@@utm_content%253Dawareness*@@utm_campaign_id%253D100001
+http://192.168.69.35:8000/redirect.html?links=https://www.cupshe.com/collections/one-piece?utm_source%3Dfacebook*@@utm_medium%253Docpm*@@utm_campaign%253DL-facebook-awareness-ca-swimsuit-image-test-image-DASL1254AA-2-home-c-230224*@@utm_content%253Dawareness*@@utm_campaign_id%253D100001
