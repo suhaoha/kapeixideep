@@ -37,4 +37,4 @@ https://sg-release.kapeixi.cn/app/redirect.html?links=https://ca.cupshe.com/coll
 https://www.cupshe.com/app/redirect.html?https://www.cupshe.com/collections/newuserpriceall0?utm_source=google&utm_medium=app&utm_campaign=USAPP-IOS-W2A-DSC-Free-230416&utm_content=Discovery
 
 
-https://www.cupshe.com/app/redirect.html?links=https://ca.cupshe.com/collections/10-30offmothersday?utm_source=google&utm_campaign=an-test&utm_content=Display&utm_medium=app
+https://www.cupshe.com/app/redirect.html?links=https://ca.cupshe.com/collections/bikinis?utm_source=google&utm_campaign=an-test&utm_content=Display&utm_medium=app
