@@ -38,3 +38,6 @@ https://www.cupshe.com/app/redirect.html?https://www.cupshe.com/collections/newu
 
 
 https://www.cupshe.com/app/redirect.html?links=https://ca.cupshe.com/collections/bikinis?utm_source=google&utm_campaign=an-test&utm_content=Display&utm_medium=app
+
+
+https://uk.cupshe.com/app/redirect.html?links=https://uk.cupshe.com/products/black-metallic-striped-wrap-bralette-high-waist-bikini-swimsuit?source=facebook
