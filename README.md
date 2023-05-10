@@ -41,3 +41,15 @@ https://www.cupshe.com/app/redirect.html?links=https://ca.cupshe.com/collections
 
 
 https://uk.cupshe.com/app/redirect.html?links=https://uk.cupshe.com/products/black-metallic-striped-wrap-bralette-high-waist-bikini-swimsuit?source=facebook
+
+https://de.cupshe.com/
+
+https://de.cupshe.com/collections/cupshe-bikini-1?icn=allbikinisets&ici=navbar03
+
+https://de.cupshe.com/products/neckholder-tri-bikini-set-mit-hoher-taille
+
+https://fr.cupshe.com/
+
+https://fr.cupshe.com/collections/bikini?icn=bikinisets&ici=navbar03
+
+https://fr.cupshe.com/products/bikini-triangle-longline-taille-haute-avec-col-licou
