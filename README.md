@@ -12,3 +12,5 @@ https://cupshe.onelink.me/JLpe/w5r9q6ah
 
 
 https://cupshe.onelink.me/GZh3/zrvh5zq2
+
+https://cupshe.onelink.me/JLpe?media_source=KlarnaOrder&af_dp=cupshe%3A%2F%2Fcupshe.com
