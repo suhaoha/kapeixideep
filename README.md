@@ -23,3 +23,7 @@ https://cupshe.onelink.me/GZh3?af_xp=social&pid=Social_instagram&c=Season_Day_Li
 https://cupshe.onelink.me/JLpe/eu9sd6zp
 
 https://www.cupshe.com/collections/memorial-day-sale?skc=1078&skcapp=1076
+
+https://www.cupshe.com/collections/memorial-day-sale?skc=1078
+
+https://www.cupshe.com/collections/memorial-day-sale
