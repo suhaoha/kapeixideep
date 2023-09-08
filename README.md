@@ -21,3 +21,5 @@ https://cupshe.onelink.me/JLpe?pid=KlarnaOrder&af_dp=cupshe%3A%2F%2Fcupshe.com&s
 https://cupshe.onelink.me/GZh3?af_xp=social&pid=Social_instagram&c=Season_Day_Link&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2Fcms%3Fparameters%3D%7B%22linkUrl%22%3A%22https%3A%2F%2Fnewappapi.cupshe.com%2Fhelp%2Fsweaters.html%3FneedToken%3D1%22%7D
 
 https://cupshe.onelink.me/JLpe/eu9sd6zp
+
+https://www.cupshe.com/collections/memorial-day-sale?skc=1078&skcapp=1076
