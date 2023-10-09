@@ -34,3 +34,7 @@ https://www.cupshe.com/collections/test-zhiding?skcapp=2551
 https://cupshe.onelink.me/GZh3/sk1hyjzc
 
 https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=4&siteId=1&appShareLinks=http%3A%2F%2Flocalhost%3A8080%2Flive-app%3Fid%3D4%26channelId%3D1%26mobileVersion%3D4.9.4
+
+https://cupshe.bttn.io
+
+https://cupshe.bttn.io/home
