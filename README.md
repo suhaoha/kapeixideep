@@ -38,3 +38,6 @@ https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=4&site
 https://cupshe.bttn.io
 
 https://cupshe.bttn.io/home
+
+
+https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2ForderDetail%3Fparameters%3D%7B%22needLogin%22%3A''1%22%2C%22orderId%22%3A''${orderNo}%22%7D
