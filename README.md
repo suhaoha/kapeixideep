@@ -43,10 +43,10 @@ https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybr
 
 https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybrid%2Fpage%2ForderDetail%3Fparameters%3D%7B%22needLogin%22%3A%221%22%2C%22orderId%22%3A%228019324897233325%22%7D
 
-
-
 https://www.cupshe.com/collections/articlesenventeflash/skcapp=1098
 
 https://fr.cupshe.com/collections/articlesenventeflash/skcapp=1098
 
 https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=10
+
+https://us-release.kapeixi.cn/campaign/cupshe-x-gabby-windey-partyseason-live?id=4&appShareLinks=https%3A%2F%2Fapi-release.kapeixi.cn%2Fhelp%2Flive.html%3Fid%3D4%26needToken%3D1
