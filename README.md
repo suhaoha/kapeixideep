@@ -48,3 +48,5 @@ https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&jumpUrl=Cupshe%3A%2F%2Fhybr
 https://www.cupshe.com/collections/articlesenventeflash/skcapp=1098
 
 https://fr.cupshe.com/collections/articlesenventeflash/skcapp=1098
+
+https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=10
