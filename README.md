@@ -50,3 +50,6 @@ https://fr.cupshe.com/collections/articlesenventeflash/skcapp=1098
 https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=10
 
 https://www.cupshe.com/campaign/cupshe-x-gabby-windey-partyseason-live?id=4&appShareLinks=https%3A%2F%2Fapi-release.kapeixi.cn%2Fhelp%2Flive.html%3Fid%3D4%26needToken%3D1
+
+
+https://www.cupshe.com/fpmovement/shop/too-good-tank/?category=workout-tops&color=014&type=REGULAR&quantity=1
