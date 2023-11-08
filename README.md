@@ -22,3 +22,5 @@ https://cupshe.bttn.io
 https://cupshe.bttn.io/home
 
 https://cupshe.onelink.me/GZh3/9cthvuvy
+
+https://www.cupshe.com/collections/dress?icn=dresses&ici=navbar11&theme_typ=everyday
