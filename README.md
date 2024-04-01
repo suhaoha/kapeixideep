@@ -24,3 +24,6 @@ https://cupshe.bttn.io/home
 https://cupshe.onelink.me/GZh3/9cthvuvy
 
 https://www.cupshe.com/collections/dress?icn=dresses&ici=navbar11&theme_type=everyday
+
+
+https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&c=EmailToAppPdp&jumpUrl=Cupshe://hybrid/page/product?parameters=%7B%22recommendId%22%3A4%2C%22skcCode%22%3A%22CSN0101BW%22%7D&utm_source=automatic&utm_medium=email&utm_campaign=guideActivateScene
