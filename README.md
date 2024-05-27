@@ -31,3 +31,6 @@ https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&c=EmailToAppPdp&jumpUrl=Cup
 https://cupshe.onelink.me/JLpe?af_xp=custom&pid=Email&c=UK_EDM_APP_sale_5.20&id=121808&toPage=collection
 
 https://cupshe.onelink.me/JLpe?deep_link_value=https://us-release.kapeixi.cn/products/daisy-strawberry-print-one-piece-swimsuit-for-toddler-girls-and-girls?distinct_id=fc537a11-6c0d-4bac-b777-6f91ad810268*@@theme_type=everyday*@@utm_source=fb*@@utm_content=0328about2huan1*@@utm_medium=post*@@utm_campaign=about1&utm_medium=post&af_sub1=post&utm_content=0328about2huan1&af_adset=0328about2huan1&c=about1&pid=fb&smartBanner=1&af_banner=true&af_channel=23_cyn_1_test
+
+
+https://cupshe.onelink.me/JLpe?deep_link_value=https://us-release.kapeixi.cn/checkouts?check=1794996977769328641?distinct_id=fc537a11-6c0d-4bac-b777-6f91ad810268*@@theme_type=everyday*@@utm_source=fb*@@utm_content=0328about2huan1*@@utm_medium=post*@@utm_campaign=about1&utm_medium=post&af_sub1=post&utm_content=0328about2huan1&af_adset=0328about2huan1&c=about1&pid=fb&smartBanner=1&af_banner=true&af_channel=23_cyn_1_test
