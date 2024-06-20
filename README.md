@@ -37,3 +37,6 @@ https://cupshe.onelink.me/JLpe?deep_link_value=https://us-release.kapeixi.cn/che
 
 
 https://link.cupshe.com/u/nrd.php?p=9UMUJi0mJz_95514_930993_1_13&ems_l=1200284&i=1&d=NTUxNjYzNTg%3D%7COVVNVUppMG1Keg%3D%3D%7CQ0EtMjAyNDA2MDYtMg%3D%3D%7CMjM5MzkwNzI%3D%7C&_esuh=_11_a3e5ea73c2aedd902b433c01875c39f53d01664f916a81efbedeb7e5aee31e71
+
+
+https://cupshe.onelink.me/GZh3?af_xp=custom&pid=Facebook_ads&c=nickozhang&skcCode=CAA12E4F013SD&utm_campaign=nickozhang&utm_content=yongsong&utm_medium=asong&utm_source=Facebook_ads&utm_term=zhangyongsong&is_retargeting=1&deep_link_value=https://m-de.cupshe.com/productSkcCode/CAA12E4F013SD?skcCode=CAA12E4F013SD*@@utm_campaign=nickozhang*@@utm_content=yongsong*@@utm_medium=asong*@@utm_source=Facebook_ads*@@utm_term=zhangyongsong&skcCode=CAA12E4F013SD
