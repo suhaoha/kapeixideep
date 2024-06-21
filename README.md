@@ -40,3 +40,6 @@ https://link.cupshe.com/u/nrd.php?p=9UMUJi0mJz_95514_930993_1_13&ems_l=1200284&i
 
 
 https://cupshe.onelink.me/GZh3?af_xp=custom&pid=Facebook_ads&c=nickozhang&skcCode=CAA12E4F013SD&utm_campaign=nickozhang&utm_content=yongsong&utm_medium=asong&utm_source=Facebook_ads&utm_term=zhangyongsong&is_retargeting=1&deep_link_value=https://m-de.cupshe.com/productSkcCode/CAA12E4F013SD?skcCode=CAA12E4F013SD*@@utm_campaign=nickozhang*@@utm_content=yongsong*@@utm_medium=asong*@@utm_source=Facebook_ads*@@utm_term=zhangyongsong&skcCode=CAA12E4F013SD
+
+
+https://www.cupshe.com/products/x-jojo-saddleback-triangle-bikini-top-ultra-cheeky-bottoms-set-120000202871?recommendId=&fbc=dsds&fbp=ewewpixel_id=323232
