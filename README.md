@@ -43,3 +43,6 @@ https://cupshe.onelink.me/GZh3?af_xp=custom&pid=Facebook_ads&c=nickozhang&skcCod
 
 
 https://www.cupshe.com/products/x-jojo-saddleback-triangle-bikini-top-ultra-cheeky-bottoms-set-120000202871?recommendId=&fbc=dsds&fbp=ewewpixel_id=323232
+
+
+https://www.cupshe.com/products/x-jojo-saddleback-triangle-bikini-top-ultra-cheeky-bottoms-set-120000202871?recommendId=&fbc=dsds&fbp=ewew&pixel_id=323232
