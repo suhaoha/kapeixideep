@@ -50,3 +50,5 @@ https://www.cupshe.com/products/x-jojo-saddleback-triangle-bikini-top-ultra-chee
 https://cupshe.onelink.me/JLpe?deep_link_value=https://us-release.kapeixi.cn/?distinct_id=1fb9fdf3-274e-4aa7-aef3-9429d5664c77*@@theme_type=everyday*@@sence_type=3&c=23_cyn_1_test&pid=smart_banner&smartBanner=1&af_banner=true&af_channel=23_cyn_1_test
 
 https://us-release.kapeixi.cn/app/deeplink_v3.html?links=https://cupshe.onelink.me/GZh3?af_xp=custom&pid=undefined&c=undefined&brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=v1&skcCode=CSN0089LB&skuCode=CSN0089LB&is_retargeting=1&deep_link_value=https://us-release.kapeixi.cn/productSkcCode/CSN0089LB?skcCode=CSN0089LB
+
+https://de.cupshe.com/app/redirect_v2.html?skcCode=CAA04B4G023CU&skuCode=CAA04B4G023CUXS
