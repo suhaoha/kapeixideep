@@ -51,4 +51,5 @@ https://cupshe.onelink.me/JLpe?deep_link_value=https://us-release.kapeixi.cn/?di
 
 https://us-release.kapeixi.cn/app/deeplink_v3.html?links=https://cupshe.onelink.me/GZh3?af_xp=custom&pid=undefined&c=undefined&brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=v1&skcCode=CSN0089LB&skuCode=CSN0089LB&is_retargeting=1&deep_link_value=https://us-release.kapeixi.cn/productSkcCode/CSN0089LB?skcCode=CSN0089LB
 
-https://de.cupshe.com/app/redirect_v2.html?skcCode=CAA04B4G023CU&skuCode=CAA04B4G023CUXS
+
+https://m-de.cupshe.com/app/deeplink_v2.html?links=https://cupshe.onelink.me/GZh3?af_xp=custom&pid=undefined&c=undefined&collectionId=124526&is_retargeting=1&deep_link_value=https://m-de.cupshe.com/appCollectionId/124526?collectionId=124526
