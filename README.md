@@ -53,3 +53,6 @@ https://us-release.kapeixi.cn/app/deeplink_v3.html?links=https://cupshe.onelink.
 
 
 https://m-de.cupshe.com/app/deeplink_v2.html?links=https://cupshe.onelink.me/GZh3?af_xp=custom&pid=undefined&c=undefined&collectionId=124526&is_retargeting=1&deep_link_value=https://m-de.cupshe.com/appCollectionId/124526?collectionId=124526
+
+
+https://www.cupshe.com/products/pink-button-up-sleep-romper-CAA15F4E001DD?skucode=CAA15F4E001DDS&theme_type=evening
