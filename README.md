@@ -11,3 +11,5 @@ https://www.cupshe.com/collections/accs-clothing?icn=clothingaccs&ici=navbar12&t
  https://eej.at/A72e3UGF
 
  https://m-it.cupshe.com/
+
+ https://www.cupshe.com/collections/minidressesvacation?skcfeed=CAA13E4C021AA
