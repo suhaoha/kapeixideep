@@ -32,3 +32,6 @@ https://de-release.kapeixi.cn/app/deeplink_v2.html?links=https://cupshe.onelink.
 
 
 https://de.cupshe.com/collections/hallosonnenshein?sc_src=email_1924889&sc_lid=116700887&sc_uid=KF9W9pGkw6&sc_llid=3&utm_source=Emarsys&utm_medium=email&utm_campaign=ch+Emarsys+demo-12&sc_customer=59045632874873&utm_source=google2&utm_medium=email2&utm_campaign=sale2&utm_content=vip2&utm_term=us2&customersale=mail_subscribe
+
+
+android-app://com.cupshe.cupshe/cupshe/cupshe.com/product?skc=120000203934&source=google
