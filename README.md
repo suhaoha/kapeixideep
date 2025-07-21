@@ -1,6 +1,6 @@
 https://www.cupshe.com/products?skc=DAA12E5G026AA&source=google
 
-https://ca.cupshe.com/products?skc=DAA12E5G026AA&source=google&site=ca
+https://www.cupshe.com/products?skc=DAA12E5G026AA&source=google&site=ca
 
 https://uk.cupshe.com/products?skc=DAA12E5G026AA&source=google
 
