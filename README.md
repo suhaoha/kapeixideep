@@ -12,4 +12,6 @@ https://au.cupshe.com/products?skc=DAA12E5G026AA&source=google
 
 https://nz.cupshe.com/products?skc=DAA12E5G026AA&source=google
 
+https://cupshe.onelink.me/GZh3?af_xp=custom&deep_link_value=https://www.cupshe.com/productSkcCode/DAA12E5G026AA?utm_source%3Dgoogle
+
 
