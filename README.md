@@ -31,3 +31,5 @@ https://cupshe.onelink.me/GZh3?af_xp=custom&deep_link_value=https://fr.cupshe.co
 
 
 https://link.cupshe.com/u/nrd.php?p=E2Y53yU7HX_3_2378093_1_1&ems_l=3283398&i=1&d=MTQ1NDY3MDA2%7CRTJZNTN5VTdIWA%3D%3D%7CVVMtMjAyNTA4MTktdGVzdDM%3D%7CMjQ4NjQ4Nzg%3D%7C&_esuh=_11_ec67ddf62eb09bb1996c93cfa6b775ab974f0613388d2353e794edfadf6d0e7b
+
+https://cupshe.onelink.me/JLpe?deep_link_value=https%3A%2F%2Fshare-review.cupshe.com%2F%23%2Fsite
