@@ -42,3 +42,5 @@ https://cupshe.onelink.me/JLpe?deep_link_value=https%3A%2F%2Fcupshe.com%2Fstartr
 
 
 https://cupshe.onelink.me/GZh3?af_xp=custom&deep_link_value=https://fr.cupshe.com/productSkcCode/7164142059573&pid=rtbhouse_int&c=rtbhouse-retargeting-us&is_retargeting=true&advertising_id={ANDROID_ADVERTISING_ID}&af_click_lookback=7d&clickid={IMPRESSION_HASH}-{TIMESTAMP}&af_siteid={SSP_ADVERTISER_ENCRYPTED}&af_sub5={RTBHC}&af_reengagement_window=30d
+
+https://cupshe.onelink.me/GZh3?af_xp=custom&deep_link_value=https://fr.cupshe.com/appCollectionId/143239
