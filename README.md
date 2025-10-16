@@ -1,5 +1,7 @@
 https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=c-sweaterseason&collectionId=142722
 
+https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=freereturn-c&collectionId=6673&skcapp=95319
+
 https://cupshe.onelink.me/GZh3?af_xp=custom&pid=rtbhouse_int&c=rtbhouse-retargeting-us&is_retargeting=true&advertising_id=9938723&af_click_lookback=7d&clickid=faifualifan-10398435&af_siteid=1234&af_sub5=afsub5&af_reengagement_window=30d&deep_link_value=https://fr.cupshe.com/productSkcCode/7164142059573
 
 https://app.appsflyer.com/com.cupshe.cupshe?pid=rtbhouse_int&c=rtbhouse-retargeting-u
