@@ -16,3 +16,6 @@ https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&af_web_dp=https://www.cupsh
 https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&af_web_dp=https://www.cupshe.com&deep_link_value=https://www.cupshe.com/productSkcCode/CAA06A5H026UG
 
 https://cupshe.onelink.me/JLpe?af_xp=email&pid=Email&af_web_dp=https://www.cupshe.com&deep_link_value=''
+
+
+https://newappapi.cupshe.com/help/campaigns.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=early-access-cupshe-x-jessie-james-decker
