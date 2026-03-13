@@ -23,3 +23,5 @@ https://newappapi.cupshe.com/help/campaigns.html?brandId=1&channelId=1&terminalI
 
 
 https://www.cupshe.com/?srsltid=AfmBOoonl1jeVG8zUKEMt8pKH1uDBIZUXhv0mshvfnjLQ_kCtiLHLRMs
+
+https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=freereturn&skcCode=120000206251&skuCode=130000361462
