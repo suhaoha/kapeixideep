@@ -18,3 +18,7 @@ https://m-it.cupshe.com/
 https://ca.cupshe.com/
 
 https://m-ca.cupshe.com/
+
+https://www.cupshe.com/
+
+https://m.cupshe.com/
