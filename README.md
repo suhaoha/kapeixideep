@@ -10,3 +10,7 @@ https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&s
 
 
 https://cupshe.onelink.me/JLpe?deep_link_value=https://www.cupshe.com/collections/testcollection-nicko00010?mock-visit-region=us-west-1
+
+https://it.cupshe.com/
+
+https://m-it.cupshe.com/
