@@ -14,3 +14,7 @@ https://cupshe.onelink.me/JLpe?deep_link_value=https://www.cupshe.com/collection
 https://it.cupshe.com/
 
 https://m-it.cupshe.com/
+
+https://ca.cupshe.com/
+
+https://m-ca.cupshe.com/
