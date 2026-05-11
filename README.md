@@ -22,3 +22,5 @@ https://m-ca.cupshe.com/
 https://www.cupshe.com/
 
 https://m.cupshe.com/
+
+https://it.cupshe.com/collections/bikinis?icn=bikini&ici=navbar02
