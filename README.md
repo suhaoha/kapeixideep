@@ -22,4 +22,5 @@ https://www.cupshe.com/
 
 https://it.cupshe.com/collections/bikinis?icn=bikini&ici=navbar02
 
-cupshe.attn.tv/au67GftHla7N
+
+https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=freereturn-c&collectionId=6673 
