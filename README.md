@@ -26,3 +26,5 @@ https://it.cupshe.com/collections/bikinis?icn=bikini&ici=navbar02
 https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=freereturn-c&collectionId=6673 
 
 https://cupshe.onelink.me/JLpe?seasonPreviewCode=SZ_TEST_U9eb3tcTIoyuB6UzVon1pg
+
+https://cupshe.onelink.me/JLpe/w8b4abe5
