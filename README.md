@@ -31,4 +31,4 @@ https://cupshe.onelink.me/JLpe/w8b4abe5
 
 https://www.cupshe.com/collections/jmc-sync-test?skc=1866
 
-https://cupshe.onelink.me/JLpe?c=54_jane5ab&pid=smart_banner&smartBanner=1&af_banner=true&af_channel=54_jane5ab&deep_link_value=https://cupshe.com/collections/jmc-sync-test?distinct_id=49a959d3-91b1-4efc-9736-9b731fc514dc*@@skc=1866*@@skcapp=1866*@@experimentId=100031*@@variantIds=100059*@@sence_type=3
+https://cupshe.onelink.me/JLpe?c=54_jane5ab&pid=smart_banner&smartBanner=1&af_banner=true&af_channel=54_jane5ab&deep_link_value=https://www.cupshe.com/collections/jmc-sync-test?distinct_id=49a959d3-91b1-4efc-9736-9b731fc514dc*@@skc=1866*@@skcapp=1866*@@experimentId=100031*@@variantIds=100059*@@sence_type=3
