@@ -28,3 +28,5 @@ https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&s
 https://cupshe.onelink.me/JLpe?seasonPreviewCode=SZ_TEST_U9eb3tcTIoyuB6UzVon1pg
 
 https://cupshe.onelink.me/JLpe/w8b4abe5
+
+https://www.cupshe.com/collections/jmc-sync-test?skc=1866
