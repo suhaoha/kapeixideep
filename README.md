@@ -31,3 +31,6 @@ https://cupshe.onelink.me/JLpe?c=54_jane5ab&pid=smart_banner&smartBanner=1&af_ba
 
 
 https://cupshe.onelink.me/JLpe/i8ait7cb
+
+
+https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=26fallwinter&collectionId=156754&skcapp=251204&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=L-facebook-US-web2app-apparel-dress-awareness-IOS-video-US-W36-mix-kol2-bekahhoush-themelissalytle-CAA05A2F133UV-CAA05E6H077AK-CAA05E6H009GN-CAA05A4J056KK-CAA02C5H008AG-elena-4x5-Wings-NK2609040015-SEA-core-W41LongWeekendTreat-VO-expansion-Monique-0262-261009&utm_content={{campaign.name}}&theme_type=everyday&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&skcfeed=0
