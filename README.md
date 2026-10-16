@@ -18,7 +18,7 @@ https://www.cupshe.com/
 
 https://it.cupshe.com/collections/bikinis?icn=bikini&ici=navbar02
 
-
+[
 https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=freereturn-c&collectionId=6673 
 
 https://cupshe.onelink.me/JLpe?seasonPreviewCode=SZ_TEST_U9eb3tcTIoyuB6UzVon1pg
@@ -33,4 +33,4 @@ https://cupshe.onelink.me/JLpe?c=54_jane5ab&pid=smart_banner&smartBanner=1&af_ba
 https://cupshe.onelink.me/JLpe/i8ait7cb
 
 
-https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=26fallwinter&collectionId=156754&skcapp=251204&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=L-facebook-US-web2app-apparel-dress-awareness-IOS-video-US-W36-mix-kol2-bekahhoush-themelissalytle-CAA05A2F133UV-CAA05E6H077AK-CAA05E6H009GN-CAA05A4J056KK-CAA02C5H008AG-elena-4x5-Wings-NK2609040015-SEA-core-W41LongWeekendTreat-VO-expansion-Monique-0262-261009&utm_content={{campaign.name}}&theme_type=everyday&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&skcfeed=0
+https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=26fallwinter&collectionId=156754&skcapp=251204&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=L-facebook-US-web2app-apparel-dress-awareness-IOS-video-US-W36-mix-kol2-bekahhoush-themelissalytle-CAA05A2F133UV-CAA05E6H077AK-CAA05E6H009GN-CAA05A4J056KK-CAA02C5H008AG-elena-4x5-Wings-NK2609040015-SEA-core-W41LongWeekendTreat-VO-expansion-Monique-0262-261009&utm_content={{campaign.name}}&theme_type=everyday&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&skcfeed=0](https://m-us-release.kapeixi.cn/collections/testcollection-nicko0001?bcainfluencer=_shelbyjames&brandId=1&siteId=1&needToken=1&seoUrl=testcollection-nicko0001&bcacode=29BWFTBCKJ51,1PKFK6UKML2H,1EP8LVPF8N8H&utm_campaign=facebook-video-US-web2app-post-other-ASC-IOS-test-Raven-kol2-BCA231226012-_shelbyjames-BCA-CH231225001-1763-CAA14B2G65GH-w42-0012-261016&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&channelId=1&utm_medium=ocpm&utm_source=Facebook_ads&terminalId=2&collectionId=126883&skcapp=1962&utm_content={{campaign.name}})
