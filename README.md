@@ -37,6 +37,4 @@ https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&s
 
 
 
-
-https://us-release.kapeixi.cn/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=v3-collection&collectionId=126883&skcapp=1966&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=facebook-video-US-web2app-post-other-ASC-IOS-test-Raven-kol2-BCA231226004-_shelbyjames-BCA-CH231225001-1763-CAA14B2G65GH-w43-0004-261020&utm_content={{campaign.name}}&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&bcacode=29BWFTBCKJ51,test-giwuvvvvvvvvvgefiowehf123123dfisuh,1PKFK6UKML2H&bcainfluencer=_shelbyjames
-
+https://us-release.kapeixi.cn/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=v3-collection&collectionId=126883&skcapp=1965&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=facebook-video-US-web2app-post-other-ASC-IOS-test-Raven-kol2-BCA231226003-_shelbyjames-BCA-CH231225001-1763-CAA14B2G65GH-w43-0003-261020&utm_content={{campaign.name}}&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&bcacode=test1giwuvvvvvvvvvgefiowehf123123dfisuhvvvgefiowehfvvvge1iowe1f&bcainfluencer=_shelbyjames
