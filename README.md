@@ -38,5 +38,5 @@ https://www.cupshe.com/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&s
 
 
 
+https://us-release.kapeixi.cn/app/redirect_v3.html?brandId=1&channelId=1&terminalId=2&siteId=1&needToken=1&seoUrl=v3-collection&collectionId=126883&skcapp=1966&utm_source=Facebook_ads&utm_medium=ocpm&utm_campaign=facebook-video-US-web2app-post-other-ASC-IOS-test-Raven-kol2-BCA231226004-_shelbyjames-BCA-CH231225001-1763-CAA14B2G65GH-w43-0004-261020&utm_content={{campaign.name}}&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&bcacode=29BWFTBCKJ51,test-giwuvvvvvvvvvgefiowehf123123dfisuh,1PKFK6UKML2H&bcainfluencer=_shelbyjames
 
-https://m-us-release.kapeixi.cn/collections/testcollection-nicko0001?bcainfluencer=_shelbyjames&brandId=1&siteId=1&needToken=1&seoUrl=testcollection-nicko0001&bcacode=29BWFTBCKJ51,1PKFK6UKML2H,1EP8LVPF8N8H&utm_campaign=facebook-video-US-web2app-post-other-ASC-IOS-test-Raven-kol2-BCA231226012-_shelbyjames-BCA-CH231225001-1763-CAA14B2G65GH-w42-0012-261016&utm_term={{{ad.id}}}_{{{placement}}}_{{{site_source_name}}}&channelId=1&utm_medium=ocpm&utm_source=Facebook_ads&terminalId=2&collectionId=126883&skcapp=1962&utm_content={{campaign.name}}
